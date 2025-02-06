@@ -1,0 +1,56 @@
+input{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    min-width: 70%;
+}
+
+input:hover{
+    border: 4px solid rgba(65, 65, 199, 0.701);
+}
+
+.Paste-main-cont{
+    text-align: center;
+}
+
+.card{
+    border: 3px solid rgba(78, 78, 181, 0.742);
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(167, 131, 87, 0.719);
+}
+
+.Title{
+    color: rgba(106, 11, 11, 0.938);
+    font-size: xx-large;
+    padding: 20px;
+    border-bottom: 3px solid rgba(6, 6, 113, 0.562);
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.Content{
+    font-size: larger;
+    color: rgb(22, 108, 174);
+    text-align: center;
+    padding: 15px;
+    border-bottom: 3px solid rgba(78, 78, 181, 0.742) ;
+    font-weight: 600;
+}
+
+button{
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px;
+    border: 3px solid rgba(132, 163, 38, 0.726);
+    background-color: grey;
+    color: aliceblue;
+}
+button:hover{
+    border: 3px solid blueviolet;
+    box-shadow: 2px 2px;
+
+}
